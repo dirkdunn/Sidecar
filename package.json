@@ -1,0 +1,23 @@
+{
+  "name": "sidecar",
+  "version": "1.0.0",
+  "description": "Sidecar is a code editor for the browser.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "code",
+    "editor",
+    "ide",
+    "javascript",
+    "chrome",
+    "browser"
+  ],
+  "author": "dirkdunn",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
